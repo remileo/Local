@@ -120,7 +120,7 @@ lightgallery does not force you to use any kind of markup. you can use whatever 
 </div>
 ```
 #### Call the plugin
-Finally you need to initiate the gallery by adding the following code.
+Finally you need to initiate the gallery by adding the following code
 ``` javascript
 <script type="text/javascript">
     $(document).ready(function() {
